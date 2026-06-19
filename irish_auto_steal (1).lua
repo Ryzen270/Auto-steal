@@ -1,8 +1,3 @@
---[[
-    irish hub auto steal
-    from von
-    https://discord.gg/rNvAU6cjVB
-]]
 
 local Players = game:GetService('Players')
 local RunService = game:GetService('RunService')
